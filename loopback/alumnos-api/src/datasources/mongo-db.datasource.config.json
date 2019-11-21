@@ -1,0 +1,11 @@
+{
+  "name": "MongoDB",
+  "connector": "mongodb",
+  "url": "mongodb+srv://ayaxalexis:611018@cluster0-nrygc.mongodb.net/desarrolloweb?retryWrites=true&w=majority",
+  "host": "cluster0-nrygc.mongodb.net",
+  "port": 27017,
+  "user": "ayaxalexis",
+  "password": "611018",
+  "database": "desarrolloweb",
+  "useNewUrlParser": true
+}

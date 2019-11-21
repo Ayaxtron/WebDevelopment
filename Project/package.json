@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "LogIn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "compilar": "sass scss/estilos.scss css/styles.css",
+    "ejecutar":"tsc LogIn.ts "
+  },
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+    "bootstrap": "^4.3.1",
+    "sass": "^1.23.0-module.beta.1",
+    "save-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  }
+}

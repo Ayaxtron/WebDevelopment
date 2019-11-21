@@ -1,0 +1,167 @@
+
+@media (max-width: 575px){
+	.textTitle{
+    	
+     	font-size: 17px;
+	}
+	.text1{
+		font-size: 18px;
+	}
+	.text2 {
+	
+		font-size: 15px;
+		
+	}
+	.text5{
+    	
+     	font-size: 17px;
+	}
+	.text6 {
+	
+		font-size: 15px;
+		
+	}
+	
+
+	#middle{
+		
+		height: 430px;
+		
+	}
+	.Img{
+		height: 22%;
+
+	}
+	.Img2{
+		height: 40%;
+	}
+
+
+}
+@media (min-width: 576px) { 
+	.textTitle{
+    	
+     	font-size: 19px;
+	}
+	.text5{
+    	
+     	font-size: 19px;
+	}
+	.text1{
+		font-size: 20px;
+	}
+	.text2 {
+		font-size: 17px;
+	}
+	.text6 {
+		font-size: 17px;
+	}
+	#middle {
+    	height: 510px;
+ 	}
+ 	.Img{
+		height: 30%;
+
+	}
+	.Img2{
+		height: 55%;
+	}
+ }
+
+
+@media (min-width: 768px) { 
+	.textTitle .text6{
+    	
+     	font-size: 21px;
+	}
+	.text1{
+		font-size: 22px;
+	}
+	.text2 {
+		font-size: 19px;
+	}
+	.text5 .text6{
+    	
+     	font-size: 21px;
+	}
+	.text6 {
+		font-size: 19px;
+	}
+	#middle {
+    	height: 500px;
+ 	}
+ 	.Img{
+		height: 34%;
+
+	}
+	.Img2{
+		height: 60%;
+	}
+
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+	.textTitle .text6{
+    	
+     	font-size: 22px;
+	}
+	.text1{
+		font-size: 24px;
+	}
+	.text2 {
+		font-size: 20px;
+	}
+	.text5 .text6{
+    	
+     	font-size: 22px;
+	}
+	.text6 {
+		font-size: 20px;
+	}
+	#middle {
+    	height: 495px;
+ 	}
+ 	.Img{
+		height: 40%;
+
+	}
+	.Img2{
+		height: 65%;
+	}
+
+}
+
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+	.textTitle .text6{
+    	
+     	font-size: 23px;
+	}
+	.text1{
+		font-size: 25px;
+	}
+	.text2 {
+		font-size: 21px;
+	}
+	.text5 .text6{
+    	
+     	font-size: 23px;
+	}
+	.text6 {
+		font-size: 21px;
+	}
+	#middle {
+    	height: 520px;
+ 	}
+ 	.Img{
+		height: 48%;
+
+	}
+	.Img2{
+		height: 80%;
+	}
+
+
+ }

@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+#wrapper {
+  width: 800px;
+  margin: 0 auto;
+}
+
+#mood {
+  background: url("../img/bulbs.jpg") no-repeat;
+  bottom: 150px;
+  width: 500px;
+  height: 450px;
+  border: 1px solid gray;
+  transition: all 0.75s;
+  margin: 0 auto;
+}
+
+#container2 {
+  margin-top: 30px;
+  width: 33%;
+  float: left;
+}
+
+.backrojo {
+  background-color: rgba(182, 0, 141, 0.25);
+}
+
+.backverde {
+  background-color: rgba(10, 169, 40, 0.25);
+}
+
+.backazul {
+  background-color: rgba(10, 163, 169, 0.25);
+}
+
+@media screen and (max-width: 600px) {
+  #wrapper {
+    width: 96%;
+  }
+
+  #mood {
+    width: 96%;
+  }
+
+  #wrapper ul {
+    width: 96%;
+    text-align: center;
+  }
+
+  #imagen {
+    width: 96%;
+  }
+
+  #mood2 {
+    width: 96%;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
